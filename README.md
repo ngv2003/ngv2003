@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ngv2003
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ML
+- 👀 I’m interested in Development,ML
+- 🌱 I’m currently learning dev
+- 💞️ I’m looking to collaborate on Full stack dev
 - 📫 How to reach me ...
 
 <!---
